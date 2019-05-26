@@ -1,0 +1,23 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.navbar {
+    padding: 15px;
+    height: 100px;
+}
+
+.caption {
+    text-align: center;
+}
+
+.background {
+    /* Image by <a href="https://pixabay.com/users/MichaelGaida-652234/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1172463">Michael Gaida</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1172463">Pixabay</a> */
+    background-image: url("../images/news.jpg");
+}
+
